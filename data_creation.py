@@ -4,7 +4,7 @@ pd.set_option("display.max_rows", 400000)
 pd.set_option("display.width", 1000)
 
 # Import Data
-course_data = pd.read_excel('assets/manually_cleaned.xlsx')
+course_data = pd.read_csv('assets/manually_cleaned.csv')
 course_data.columns = [x.lower().replace(" ", '_') for x in course_data.columns]
 
 # Create year column values and category for actual / forecasted
