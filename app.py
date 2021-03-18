@@ -61,7 +61,7 @@ app.layout = html.Div([
 
             html.H4('Funnel Step'),
             dcc.Dropdown(id='funnel-choice',
-                         options=[{'label':x, 'value':x} for x in sorted(funnel_step_options)],
+                         options=[{'label':x.title().replace('_', ' '), 'value':x} for x in sorted(funnel_step_options)],
                          value='web_traffic',
                          style={"textAlign": 'center', 'margin':'auto', 'color': 'black', 'width':'50%'}),
 
