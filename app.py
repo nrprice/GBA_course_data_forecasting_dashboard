@@ -105,12 +105,12 @@ def interactive_graphs(course_choice, funnel_choice, student_choice, forecast_ch
     if forecast_choice == forecast_options[0]:
 
         # Import Data
-        FB_prophet_data = pd.read_csv('fb_prophet_forecast.csv')
+        FB_prophet_data = pd.read_csv('assets/fb_prophet_forecast.csv')
         FB_prophet_data = FB_prophet_data.drop(columns='index')
         print (FB_prophet_data)
         course_data = FB_prophet_data
     else:
-        ARIMA_data = pd.read_csv('ARIMA_forecast.csv')
+        ARIMA_data = pd.read_csv('assets/ARIMA_forecast.csv')
         course_data = ARIMA_data
         course_data[['yhat_upper', 'yhat_lower']] = np.nan
 
