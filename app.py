@@ -42,7 +42,7 @@ student_type_options.append('Combined')
 forecast_options = ['Facebook Prophet', 'ARIMA']
 confidence_interval = 0.95
 app = dash.Dash(__name__)
-
+server = app.server
 app.layout = html.Div([
             html.Div([html.H1(f"Forecast by course and funnel stage".title(), style={'textAlign': 'center'}),
 
