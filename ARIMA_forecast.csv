@@ -1,0 +1,393 @@
+,ds,y,type,yhat,student_type,product,funnel_step
+0,2017-09-01,587324.0,Historical,,UK,BA Business ,web_traffic
+1,2018-09-01,575345.0,Historical,,UK,BA Business ,web_traffic
+2,2019-09-01,604992.0,Historical,,UK,BA Business ,web_traffic
+3,2019-09-01,,Forecast,604992.0,UK,BA Business ,web_traffic
+4,2020-09-01,,Forecast,584342.0,UK,BA Business ,web_traffic
+5,2021-09-01,,Forecast,604986.0,UK,BA Business ,web_traffic
+6,2022-09-01,,Forecast,584348.0,UK,BA Business ,web_traffic
+7,2017-09-01,22456.0,Historical,,UK,BA Business ,enquiries
+8,2018-09-01,17234.0,Historical,,UK,BA Business ,enquiries
+9,2019-09-01,25473.0,Historical,,UK,BA Business ,enquiries
+10,2019-09-01,,Forecast,25473.0,UK,BA Business ,enquiries
+11,2020-09-01,,Forecast,18788.0,UK,BA Business ,enquiries
+12,2021-09-01,,Forecast,25470.0,UK,BA Business ,enquiries
+13,2022-09-01,,Forecast,18791.0,UK,BA Business ,enquiries
+14,2017-09-01,2123.0,Historical,,UK,BA Business ,applications
+15,2018-09-01,1858.0,Historical,,UK,BA Business ,applications
+16,2019-09-01,2489.0,Historical,,UK,BA Business ,applications
+17,2019-09-01,,Forecast,2489.0,UK,BA Business ,applications
+18,2020-09-01,,Forecast,2076.0,UK,BA Business ,applications
+19,2021-09-01,,Forecast,2488.0,UK,BA Business ,applications
+20,2022-09-01,,Forecast,2076.0,UK,BA Business ,applications
+21,2017-09-01,1135.0,Historical,,UK,BA Business ,enrolments
+22,2018-09-01,903.0,Historical,,UK,BA Business ,enrolments
+23,2019-09-01,1234.0,Historical,,UK,BA Business ,enrolments
+24,2019-09-01,,Forecast,1234.0,UK,BA Business ,enrolments
+25,2020-09-01,,Forecast,958.0,UK,BA Business ,enrolments
+26,2021-09-01,,Forecast,1233.0,UK,BA Business ,enrolments
+27,2022-09-01,,Forecast,959.0,UK,BA Business ,enrolments
+28,2017-09-01,45963.0,Historical,,International,BA Business ,web_traffic
+29,2018-09-01,53389.0,Historical,,International,BA Business ,web_traffic
+30,2019-09-01,50907.0,Historical,,International,BA Business ,web_traffic
+31,2019-09-01,,Forecast,50907.0,International,BA Business ,web_traffic
+32,2020-09-01,,Forecast,51657.0,International,BA Business ,web_traffic
+33,2021-09-01,,Forecast,51416.0,International,BA Business ,web_traffic
+34,2022-09-01,,Forecast,51493.0,International,BA Business ,web_traffic
+35,2017-09-01,1508.0,Historical,,International,BA Business ,enquiries
+36,2018-09-01,2609.0,Historical,,International,BA Business ,enquiries
+37,2019-09-01,2221.0,Historical,,International,BA Business ,enquiries
+38,2019-09-01,,Forecast,2221.0,International,BA Business ,enquiries
+39,2020-09-01,,Forecast,1844.0,International,BA Business ,enquiries
+40,2021-09-01,,Forecast,1959.0,International,BA Business ,enquiries
+41,2022-09-01,,Forecast,1924.0,International,BA Business ,enquiries
+42,2017-09-01,409.0,Historical,,International,BA Business ,applications
+43,2018-09-01,231.0,Historical,,International,BA Business ,applications
+44,2019-09-01,300.0,Historical,,International,BA Business ,applications
+45,2019-09-01,,Forecast,300.0,International,BA Business ,applications
+46,2020-09-01,,Forecast,304.0,International,BA Business ,applications
+47,2021-09-01,,Forecast,302.0,International,BA Business ,applications
+48,2022-09-01,,Forecast,303.0,International,BA Business ,applications
+49,2017-09-01,135.0,Historical,,International,BA Business ,enrolments
+50,2018-09-01,95.0,Historical,,International,BA Business ,enrolments
+51,2019-09-01,189.0,Historical,,International,BA Business ,enrolments
+52,2019-09-01,,Forecast,189.0,International,BA Business ,enrolments
+53,2020-09-01,,Forecast,132.0,International,BA Business ,enrolments
+54,2021-09-01,,Forecast,188.0,International,BA Business ,enrolments
+55,2022-09-01,,Forecast,132.0,International,BA Business ,enrolments
+56,2017-09-01,457845.0,Historical,,UK,BA International Business,web_traffic
+57,2018-09-01,412785.0,Historical,,UK,BA International Business,web_traffic
+58,2019-09-01,411287.0,Historical,,UK,BA International Business,web_traffic
+59,2019-09-01,,Forecast,411287.0,UK,BA International Business,web_traffic
+60,2020-09-01,,Forecast,411231.0,UK,BA International Business,web_traffic
+61,2021-09-01,,Forecast,411229.0,UK,BA International Business,web_traffic
+62,2022-09-01,,Forecast,411229.0,UK,BA International Business,web_traffic
+63,2017-09-01,7458.0,Historical,,UK,BA International Business,enquiries
+64,2018-09-01,6233.0,Historical,,UK,BA International Business,enquiries
+65,2019-09-01,7456.0,Historical,,UK,BA International Business,enquiries
+66,2019-09-01,,Forecast,7456.0,UK,BA International Business,enquiries
+67,2020-09-01,,Forecast,6234.0,UK,BA International Business,enquiries
+68,2021-09-01,,Forecast,7455.0,UK,BA International Business,enquiries
+69,2022-09-01,,Forecast,6234.0,UK,BA International Business,enquiries
+70,2017-09-01,989.0,Historical,,UK,BA International Business,applications
+71,2018-09-01,903.0,Historical,,UK,BA International Business,applications
+72,2019-09-01,899.0,Historical,,UK,BA International Business,applications
+73,2019-09-01,,Forecast,899.0,UK,BA International Business,applications
+74,2020-09-01,,Forecast,900.0,UK,BA International Business,applications
+75,2021-09-01,,Forecast,899.0,UK,BA International Business,applications
+76,2022-09-01,,Forecast,900.0,UK,BA International Business,applications
+77,2017-09-01,412.0,Historical,,UK,BA International Business,enrolments
+78,2018-09-01,401.0,Historical,,UK,BA International Business,enrolments
+79,2019-09-01,398.0,Historical,,UK,BA International Business,enrolments
+80,2019-09-01,,Forecast,398.0,UK,BA International Business,enrolments
+81,2020-09-01,,Forecast,399.0,UK,BA International Business,enrolments
+82,2021-09-01,,Forecast,399.0,UK,BA International Business,enrolments
+83,2022-09-01,,Forecast,399.0,UK,BA International Business,enrolments
+84,2017-09-01,30043.0,Historical,,International,BA International Business,web_traffic
+85,2018-09-01,27080.0,Historical,,International,BA International Business,web_traffic
+86,2019-09-01,33345.0,Historical,,International,BA International Business,web_traffic
+87,2019-09-01,,Forecast,33345.0,International,BA International Business,web_traffic
+88,2020-09-01,,Forecast,28783.0,International,BA International Business,web_traffic
+89,2021-09-01,,Forecast,33344.0,International,BA International Business,web_traffic
+90,2022-09-01,,Forecast,28784.0,International,BA International Business,web_traffic
+91,2017-09-01,2859.0,Historical,,International,BA International Business,enquiries
+92,2018-09-01,2231.0,Historical,,International,BA International Business,enquiries
+93,2019-09-01,2552.0,Historical,,International,BA International Business,enquiries
+94,2019-09-01,,Forecast,2552.0,International,BA International Business,enquiries
+95,2020-09-01,,Forecast,2415.0,International,BA International Business,enquiries
+96,2021-09-01,,Forecast,2508.0,International,BA International Business,enquiries
+97,2022-09-01,,Forecast,2444.0,International,BA International Business,enquiries
+98,2017-09-01,366.0,Historical,,International,BA International Business,applications
+99,2018-09-01,309.0,Historical,,International,BA International Business,applications
+100,2019-09-01,379.0,Historical,,International,BA International Business,applications
+101,2019-09-01,,Forecast,379.0,International,BA International Business,applications
+102,2020-09-01,,Forecast,315.0,International,BA International Business,applications
+103,2021-09-01,,Forecast,378.0,International,BA International Business,applications
+104,2022-09-01,,Forecast,315.0,International,BA International Business,applications
+105,2017-09-01,210.0,Historical,,International,BA International Business,enrolments
+106,2018-09-01,217.0,Historical,,International,BA International Business,enrolments
+107,2019-09-01,225.0,Historical,,International,BA International Business,enrolments
+108,2019-09-01,,Forecast,225.0,International,BA International Business,enrolments
+109,2020-09-01,,Forecast,233.0,International,BA International Business,enrolments
+110,2021-09-01,,Forecast,241.0,International,BA International Business,enrolments
+111,2022-09-01,,Forecast,249.0,International,BA International Business,enrolments
+112,2017-09-01,245689.0,Historical,,UK,BSc Maths & Stats,web_traffic
+113,2018-09-01,217332.0,Historical,,UK,BSc Maths & Stats,web_traffic
+114,2019-09-01,190252.0,Historical,,UK,BSc Maths & Stats,web_traffic
+115,2019-09-01,,Forecast,190252.0,UK,BSc Maths & Stats,web_traffic
+116,2020-09-01,,Forecast,174123.0,UK,BSc Maths & Stats,web_traffic
+117,2021-09-01,,Forecast,162344.0,UK,BSc Maths & Stats,web_traffic
+118,2022-09-01,,Forecast,153740.0,UK,BSc Maths & Stats,web_traffic
+119,2017-09-01,4937.0,Historical,,UK,BSc Maths & Stats,enquiries
+120,2018-09-01,4590.0,Historical,,UK,BSc Maths & Stats,enquiries
+121,2019-09-01,3808.0,Historical,,UK,BSc Maths & Stats,enquiries
+122,2019-09-01,,Forecast,3808.0,UK,BSc Maths & Stats,enquiries
+123,2020-09-01,,Forecast,3840.0,UK,BSc Maths & Stats,enquiries
+124,2021-09-01,,Forecast,3819.0,UK,BSc Maths & Stats,enquiries
+125,2022-09-01,,Forecast,3832.0,UK,BSc Maths & Stats,enquiries
+126,2017-09-01,501.0,Historical,,UK,BSc Maths & Stats,applications
+127,2018-09-01,421.0,Historical,,UK,BSc Maths & Stats,applications
+128,2019-09-01,351.0,Historical,,UK,BSc Maths & Stats,applications
+129,2019-09-01,,Forecast,351.0,UK,BSc Maths & Stats,applications
+130,2020-09-01,,Forecast,278.0,UK,BSc Maths & Stats,applications
+131,2021-09-01,,Forecast,206.0,UK,BSc Maths & Stats,applications
+132,2022-09-01,,Forecast,134.0,UK,BSc Maths & Stats,applications
+133,2017-09-01,250.0,Historical,,UK,BSc Maths & Stats,enrolments
+134,2018-09-01,222.0,Historical,,UK,BSc Maths & Stats,enrolments
+135,2019-09-01,162.0,Historical,,UK,BSc Maths & Stats,enrolments
+136,2019-09-01,,Forecast,162.0,UK,BSc Maths & Stats,enrolments
+137,2020-09-01,,Forecast,108.0,UK,BSc Maths & Stats,enrolments
+138,2021-09-01,,Forecast,79.0,UK,BSc Maths & Stats,enrolments
+139,2022-09-01,,Forecast,64.0,UK,BSc Maths & Stats,enrolments
+140,2017-09-01,21641.0,Historical,,International,BSc Maths & Stats,web_traffic
+141,2018-09-01,17777.0,Historical,,International,BSc Maths & Stats,web_traffic
+142,2019-09-01,12862.0,Historical,,International,BSc Maths & Stats,web_traffic
+143,2019-09-01,,Forecast,12862.0,International,BSc Maths & Stats,web_traffic
+144,2020-09-01,,Forecast,13501.0,International,BSc Maths & Stats,web_traffic
+145,2021-09-01,,Forecast,12907.0,International,BSc Maths & Stats,web_traffic
+146,2022-09-01,,Forecast,13458.0,International,BSc Maths & Stats,web_traffic
+147,2017-09-01,951.0,Historical,,International,BSc Maths & Stats,enquiries
+148,2018-09-01,641.0,Historical,,International,BSc Maths & Stats,enquiries
+149,2019-09-01,465.0,Historical,,International,BSc Maths & Stats,enquiries
+150,2019-09-01,,Forecast,465.0,International,BSc Maths & Stats,enquiries
+151,2020-09-01,,Forecast,407.0,International,BSc Maths & Stats,enquiries
+152,2021-09-01,,Forecast,374.0,International,BSc Maths & Stats,enquiries
+153,2022-09-01,,Forecast,355.0,International,BSc Maths & Stats,enquiries
+154,2017-09-01,83.0,Historical,,International,BSc Maths & Stats,applications
+155,2018-09-01,81.0,Historical,,International,BSc Maths & Stats,applications
+156,2019-09-01,50.0,Historical,,International,BSc Maths & Stats,applications
+157,2019-09-01,,Forecast,50.0,International,BSc Maths & Stats,applications
+158,2020-09-01,,Forecast,45.0,International,BSc Maths & Stats,applications
+159,2021-09-01,,Forecast,48.0,International,BSc Maths & Stats,applications
+160,2022-09-01,,Forecast,46.0,International,BSc Maths & Stats,applications
+161,2017-09-01,43.0,Historical,,International,BSc Maths & Stats,enrolments
+162,2018-09-01,21.0,Historical,,International,BSc Maths & Stats,enrolments
+163,2019-09-01,22.0,Historical,,International,BSc Maths & Stats,enrolments
+164,2019-09-01,,Forecast,22.0,International,BSc Maths & Stats,enrolments
+165,2020-09-01,,Forecast,23.0,International,BSc Maths & Stats,enrolments
+166,2021-09-01,,Forecast,25.0,International,BSc Maths & Stats,enrolments
+167,2022-09-01,,Forecast,26.0,International,BSc Maths & Stats,enrolments
+168,2017-09-01,0.0,Historical,,UK,BSc Banking & Finance,web_traffic
+169,2018-09-01,0.0,Historical,,UK,BSc Banking & Finance,web_traffic
+170,2019-09-01,96435.0,Historical,,UK,BSc Banking & Finance,web_traffic
+171,2019-09-01,,Forecast,96435.0,UK,BSc Banking & Finance,web_traffic
+172,2020-09-01,,Forecast,96443.0,UK,BSc Banking & Finance,web_traffic
+173,2021-09-01,,Forecast,96452.0,UK,BSc Banking & Finance,web_traffic
+174,2022-09-01,,Forecast,96461.0,UK,BSc Banking & Finance,web_traffic
+175,2017-09-01,0.0,Historical,,UK,BSc Banking & Finance,enquiries
+176,2018-09-01,0.0,Historical,,UK,BSc Banking & Finance,enquiries
+177,2019-09-01,5001.0,Historical,,UK,BSc Banking & Finance,enquiries
+178,2019-09-01,,Forecast,5001.0,UK,BSc Banking & Finance,enquiries
+179,2020-09-01,,Forecast,5000.0,UK,BSc Banking & Finance,enquiries
+180,2021-09-01,,Forecast,5000.0,UK,BSc Banking & Finance,enquiries
+181,2022-09-01,,Forecast,5000.0,UK,BSc Banking & Finance,enquiries
+182,2017-09-01,0.0,Historical,,UK,BSc Banking & Finance,applications
+183,2018-09-01,0.0,Historical,,UK,BSc Banking & Finance,applications
+184,2019-09-01,301.0,Historical,,UK,BSc Banking & Finance,applications
+185,2019-09-01,,Forecast,301.0,UK,BSc Banking & Finance,applications
+186,2020-09-01,,Forecast,301.0,UK,BSc Banking & Finance,applications
+187,2021-09-01,,Forecast,301.0,UK,BSc Banking & Finance,applications
+188,2022-09-01,,Forecast,301.0,UK,BSc Banking & Finance,applications
+189,2017-09-01,0.0,Historical,,UK,BSc Banking & Finance,enrolments
+190,2018-09-01,0.0,Historical,,UK,BSc Banking & Finance,enrolments
+191,2019-09-01,256.0,Historical,,UK,BSc Banking & Finance,enrolments
+192,2019-09-01,,Forecast,256.0,UK,BSc Banking & Finance,enrolments
+193,2020-09-01,,Forecast,255.0,UK,BSc Banking & Finance,enrolments
+194,2021-09-01,,Forecast,255.0,UK,BSc Banking & Finance,enrolments
+195,2022-09-01,,Forecast,255.0,UK,BSc Banking & Finance,enrolments
+196,2017-09-01,0.0,Historical,,International,BSc Banking & Finance,web_traffic
+197,2018-09-01,0.0,Historical,,International,BSc Banking & Finance,web_traffic
+198,2019-09-01,10511.0,Historical,,International,BSc Banking & Finance,web_traffic
+199,2019-09-01,,Forecast,10511.0,International,BSc Banking & Finance,web_traffic
+200,2020-09-01,,Forecast,10511.0,International,BSc Banking & Finance,web_traffic
+201,2021-09-01,,Forecast,10511.0,International,BSc Banking & Finance,web_traffic
+202,2022-09-01,,Forecast,10511.0,International,BSc Banking & Finance,web_traffic
+203,2017-09-01,0.0,Historical,,International,BSc Banking & Finance,enquiries
+204,2018-09-01,0.0,Historical,,International,BSc Banking & Finance,enquiries
+205,2019-09-01,831.0,Historical,,International,BSc Banking & Finance,enquiries
+206,2019-09-01,,Forecast,831.0,International,BSc Banking & Finance,enquiries
+207,2020-09-01,,Forecast,830.0,International,BSc Banking & Finance,enquiries
+208,2021-09-01,,Forecast,830.0,International,BSc Banking & Finance,enquiries
+209,2022-09-01,,Forecast,830.0,International,BSc Banking & Finance,enquiries
+210,2017-09-01,0.0,Historical,,International,BSc Banking & Finance,applications
+211,2018-09-01,0.0,Historical,,International,BSc Banking & Finance,applications
+212,2019-09-01,87.0,Historical,,International,BSc Banking & Finance,applications
+213,2019-09-01,,Forecast,87.0,International,BSc Banking & Finance,applications
+214,2020-09-01,,Forecast,86.0,International,BSc Banking & Finance,applications
+215,2021-09-01,,Forecast,86.0,International,BSc Banking & Finance,applications
+216,2022-09-01,,Forecast,86.0,International,BSc Banking & Finance,applications
+217,2017-09-01,0.0,Historical,,International,BSc Banking & Finance,enrolments
+218,2018-09-01,0.0,Historical,,International,BSc Banking & Finance,enrolments
+219,2019-09-01,28.0,Historical,,International,BSc Banking & Finance,enrolments
+220,2019-09-01,,Forecast,28.0,International,BSc Banking & Finance,enrolments
+221,2020-09-01,,Forecast,28.0,International,BSc Banking & Finance,enrolments
+222,2021-09-01,,Forecast,28.0,International,BSc Banking & Finance,enrolments
+223,2022-09-01,,Forecast,28.0,International,BSc Banking & Finance,enrolments
+224,2017-09-01,2830734.0,Historical,,UK,Unknown,web_traffic
+225,2018-09-01,2714926.0,Historical,,UK,Unknown,web_traffic
+226,2019-09-01,2877430.0,Historical,,UK,Unknown,web_traffic
+227,2019-09-01,,Forecast,2877430.0,UK,Unknown,web_traffic
+228,2020-09-01,,Forecast,2745145.0,UK,Unknown,web_traffic
+229,2021-09-01,,Forecast,2873865.0,UK,Unknown,web_traffic
+230,2022-09-01,,Forecast,2748614.0,UK,Unknown,web_traffic
+231,2017-09-01,77371.0,Historical,,UK,Unknown,enquiries
+232,2018-09-01,68399.0,Historical,,UK,Unknown,enquiries
+233,2019-09-01,80591.0,Historical,,UK,Unknown,enquiries
+234,2019-09-01,,Forecast,80591.0,UK,Unknown,enquiries
+235,2020-09-01,,Forecast,71200.0,UK,Unknown,enquiries
+236,2021-09-01,,Forecast,79981.0,UK,Unknown,enquiries
+237,2022-09-01,,Forecast,71770.0,UK,Unknown,enquiries
+238,2017-09-01,,Historical,,UK,Unknown,applications
+239,2018-09-01,,Historical,,UK,Unknown,applications
+240,2019-09-01,,Historical,,UK,Unknown,applications
+241,2019-09-01,,Forecast,,UK,Unknown,applications
+242,2020-09-01,,Forecast,0.0,UK,Unknown,applications
+243,2021-09-01,,Forecast,0.0,UK,Unknown,applications
+244,2022-09-01,,Forecast,0.0,UK,Unknown,applications
+245,2017-09-01,,Historical,,UK,Unknown,enrolments
+246,2018-09-01,,Historical,,UK,Unknown,enrolments
+247,2019-09-01,,Historical,,UK,Unknown,enrolments
+248,2019-09-01,,Forecast,,UK,Unknown,enrolments
+249,2020-09-01,,Forecast,0.0,UK,Unknown,enrolments
+250,2021-09-01,,Forecast,0.0,UK,Unknown,enrolments
+251,2022-09-01,,Forecast,0.0,UK,Unknown,enrolments
+252,2017-09-01,356520.0,Historical,,International,Unknown,web_traffic
+253,2018-09-01,265546.0,Historical,,International,Unknown,web_traffic
+254,2019-09-01,350865.0,Historical,,International,Unknown,web_traffic
+255,2019-09-01,,Forecast,350865.0,International,Unknown,web_traffic
+256,2020-09-01,,Forecast,287911.0,International,Unknown,web_traffic
+257,2021-09-01,,Forecast,338550.0,International,Unknown,web_traffic
+258,2022-09-01,,Forecast,297817.0,International,Unknown,web_traffic
+259,2017-09-01,9660.0,Historical,,International,Unknown,enquiries
+260,2018-09-01,8589.0,Historical,,International,Unknown,enquiries
+261,2019-09-01,10561.0,Historical,,International,Unknown,enquiries
+262,2019-09-01,,Forecast,10561.0,International,Unknown,enquiries
+263,2020-09-01,,Forecast,9067.0,International,Unknown,enquiries
+264,2021-09-01,,Forecast,10560.0,International,Unknown,enquiries
+265,2022-09-01,,Forecast,9067.0,International,Unknown,enquiries
+266,2017-09-01,,Historical,,International,Unknown,applications
+267,2018-09-01,,Historical,,International,Unknown,applications
+268,2019-09-01,,Historical,,International,Unknown,applications
+269,2019-09-01,,Forecast,,International,Unknown,applications
+270,2020-09-01,,Forecast,0.0,International,Unknown,applications
+271,2021-09-01,,Forecast,0.0,International,Unknown,applications
+272,2022-09-01,,Forecast,0.0,International,Unknown,applications
+273,2017-09-01,,Historical,,International,Unknown,enrolments
+274,2018-09-01,,Historical,,International,Unknown,enrolments
+275,2019-09-01,,Historical,,International,Unknown,enrolments
+276,2019-09-01,,Forecast,,International,Unknown,enrolments
+277,2020-09-01,,Forecast,0.0,International,Unknown,enrolments
+278,2021-09-01,,Forecast,0.0,International,Unknown,enrolments
+279,2022-09-01,,Forecast,0.0,International,Unknown,enrolments
+280,2017-09-01,40456.0,Historical,,UK,MSc Economics,web_traffic
+281,2018-09-01,32561.0,Historical,,UK,MSc Economics,web_traffic
+282,2019-09-01,32677.0,Historical,,UK,MSc Economics,web_traffic
+283,2019-09-01,,Forecast,32677.0,UK,MSc Economics,web_traffic
+284,2020-09-01,,Forecast,32757.0,UK,MSc Economics,web_traffic
+285,2021-09-01,,Forecast,32755.0,UK,MSc Economics,web_traffic
+286,2022-09-01,,Forecast,32755.0,UK,MSc Economics,web_traffic
+287,2017-09-01,1002.0,Historical,,UK,MSc Economics,enquiries
+288,2018-09-01,811.0,Historical,,UK,MSc Economics,enquiries
+289,2019-09-01,851.0,Historical,,UK,MSc Economics,enquiries
+290,2019-09-01,,Forecast,851.0,UK,MSc Economics,enquiries
+291,2020-09-01,,Forecast,885.0,UK,MSc Economics,enquiries
+292,2021-09-01,,Forecast,883.0,UK,MSc Economics,enquiries
+293,2022-09-01,,Forecast,883.0,UK,MSc Economics,enquiries
+294,2017-09-01,487.0,Historical,,UK,MSc Economics,applications
+295,2018-09-01,451.0,Historical,,UK,MSc Economics,applications
+296,2019-09-01,458.0,Historical,,UK,MSc Economics,applications
+297,2019-09-01,,Forecast,458.0,UK,MSc Economics,applications
+298,2020-09-01,,Forecast,464.0,UK,MSc Economics,applications
+299,2021-09-01,,Forecast,465.0,UK,MSc Economics,applications
+300,2022-09-01,,Forecast,466.0,UK,MSc Economics,applications
+301,2017-09-01,243.0,Historical,,UK,MSc Economics,enrolments
+302,2018-09-01,202.0,Historical,,UK,MSc Economics,enrolments
+303,2019-09-01,201.0,Historical,,UK,MSc Economics,enrolments
+304,2019-09-01,,Forecast,201.0,UK,MSc Economics,enrolments
+305,2020-09-01,,Forecast,202.0,UK,MSc Economics,enrolments
+306,2021-09-01,,Forecast,201.0,UK,MSc Economics,enrolments
+307,2022-09-01,,Forecast,202.0,UK,MSc Economics,enrolments
+308,2017-09-01,6544.0,Historical,,International,MSc Economics,web_traffic
+309,2018-09-01,6346.0,Historical,,International,MSc Economics,web_traffic
+310,2019-09-01,6365.0,Historical,,International,MSc Economics,web_traffic
+311,2019-09-01,,Forecast,6365.0,International,MSc Economics,web_traffic
+312,2020-09-01,,Forecast,6404.0,International,MSc Economics,web_traffic
+313,2021-09-01,,Forecast,6393.0,International,MSc Economics,web_traffic
+314,2022-09-01,,Forecast,6396.0,International,MSc Economics,web_traffic
+315,2017-09-01,420.0,Historical,,International,MSc Economics,enquiries
+316,2018-09-01,426.0,Historical,,International,MSc Economics,enquiries
+317,2019-09-01,479.0,Historical,,International,MSc Economics,enquiries
+318,2019-09-01,,Forecast,479.0,International,MSc Economics,enquiries
+319,2020-09-01,,Forecast,491.0,International,MSc Economics,enquiries
+320,2021-09-01,,Forecast,484.0,International,MSc Economics,enquiries
+321,2022-09-01,,Forecast,488.0,International,MSc Economics,enquiries
+322,2017-09-01,36.0,Historical,,International,MSc Economics,applications
+323,2018-09-01,39.0,Historical,,International,MSc Economics,applications
+324,2019-09-01,41.0,Historical,,International,MSc Economics,applications
+325,2019-09-01,,Forecast,41.0,International,MSc Economics,applications
+326,2020-09-01,,Forecast,42.0,International,MSc Economics,applications
+327,2021-09-01,,Forecast,43.0,International,MSc Economics,applications
+328,2022-09-01,,Forecast,44.0,International,MSc Economics,applications
+329,2017-09-01,22.0,Historical,,International,MSc Economics,enrolments
+330,2018-09-01,33.0,Historical,,International,MSc Economics,enrolments
+331,2019-09-01,47.0,Historical,,International,MSc Economics,enrolments
+332,2019-09-01,,Forecast,47.0,International,MSc Economics,enrolments
+333,2020-09-01,,Forecast,61.0,International,MSc Economics,enrolments
+334,2021-09-01,,Forecast,75.0,International,MSc Economics,enrolments
+335,2022-09-01,,Forecast,88.0,International,MSc Economics,enrolments
+336,2017-09-01,126099.0,Historical,,UK,MBA,web_traffic
+337,2018-09-01,107382.0,Historical,,UK,MBA,web_traffic
+338,2019-09-01,121874.0,Historical,,UK,MBA,web_traffic
+339,2019-09-01,,Forecast,121874.0,UK,MBA,web_traffic
+340,2020-09-01,,Forecast,111532.0,UK,MBA,web_traffic
+341,2021-09-01,,Forecast,119154.0,UK,MBA,web_traffic
+342,2022-09-01,,Forecast,113537.0,UK,MBA,web_traffic
+343,2017-09-01,5345.0,Historical,,UK,MBA,enquiries
+344,2018-09-01,4762.0,Historical,,UK,MBA,enquiries
+345,2019-09-01,5345.0,Historical,,UK,MBA,enquiries
+346,2019-09-01,,Forecast,5345.0,UK,MBA,enquiries
+347,2020-09-01,,Forecast,4762.0,UK,MBA,enquiries
+348,2021-09-01,,Forecast,5344.0,UK,MBA,enquiries
+349,2022-09-01,,Forecast,4762.0,UK,MBA,enquiries
+350,2017-09-01,945.0,Historical,,UK,MBA,applications
+351,2018-09-01,777.0,Historical,,UK,MBA,applications
+352,2019-09-01,1051.0,Historical,,UK,MBA,applications
+353,2019-09-01,,Forecast,1051.0,UK,MBA,applications
+354,2020-09-01,,Forecast,840.0,UK,MBA,applications
+355,2021-09-01,,Forecast,1050.0,UK,MBA,applications
+356,2022-09-01,,Forecast,840.0,UK,MBA,applications
+357,2017-09-01,537.0,Historical,,UK,MBA,enrolments
+358,2018-09-01,432.0,Historical,,UK,MBA,enrolments
+359,2019-09-01,499.0,Historical,,UK,MBA,enrolments
+360,2019-09-01,,Forecast,499.0,UK,MBA,enrolments
+361,2020-09-01,,Forecast,458.0,UK,MBA,enrolments
+362,2021-09-01,,Forecast,491.0,UK,MBA,enrolments
+363,2022-09-01,,Forecast,464.0,UK,MBA,enrolments
+364,2017-09-01,50287.0,Historical,,International,MBA,web_traffic
+365,2018-09-01,44624.0,Historical,,International,MBA,web_traffic
+366,2019-09-01,47823.0,Historical,,International,MBA,web_traffic
+367,2019-09-01,,Forecast,47823.0,International,MBA,web_traffic
+368,2020-09-01,,Forecast,46003.0,International,MBA,web_traffic
+369,2021-09-01,,Forecast,47043.0,International,MBA,web_traffic
+370,2022-09-01,,Forecast,46449.0,International,MBA,web_traffic
+371,2017-09-01,735.0,Historical,,International,MBA,enquiries
+372,2018-09-01,626.0,Historical,,International,MBA,enquiries
+373,2019-09-01,656.0,Historical,,International,MBA,enquiries
+374,2019-09-01,,Forecast,656.0,International,MBA,enquiries
+375,2020-09-01,,Forecast,671.0,International,MBA,enquiries
+376,2021-09-01,,Forecast,669.0,International,MBA,enquiries
+377,2022-09-01,,Forecast,669.0,International,MBA,enquiries
+378,2017-09-01,264.0,Historical,,International,MBA,applications
+379,2018-09-01,225.0,Historical,,International,MBA,applications
+380,2019-09-01,261.0,Historical,,International,MBA,applications
+381,2019-09-01,,Forecast,261.0,International,MBA,applications
+382,2020-09-01,,Forecast,226.0,International,MBA,applications
+383,2021-09-01,,Forecast,260.0,International,MBA,applications
+384,2022-09-01,,Forecast,226.0,International,MBA,applications
+385,2017-09-01,109.0,Historical,,International,MBA,enrolments
+386,2018-09-01,80.0,Historical,,International,MBA,enrolments
+387,2019-09-01,138.0,Historical,,International,MBA,enrolments
+388,2019-09-01,,Forecast,138.0,International,MBA,enrolments
+389,2020-09-01,,Forecast,99.0,International,MBA,enrolments
+390,2021-09-01,,Forecast,137.0,International,MBA,enrolments
+391,2022-09-01,,Forecast,99.0,International,MBA,enrolments

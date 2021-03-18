@@ -1,0 +1,337 @@
+index,ds,y,yhat_lower,yhat_upper,yhat,product,student_type,funnel_step
+0,2017-01-01,587324.0,,,,BA Business ,UK,web_traffic
+1,2018-01-01,575345.0,,,,BA Business ,UK,web_traffic
+2,2019-01-01,604992.0,,,,BA Business ,UK,web_traffic
+0,2019-01-01,,604992.0,604992.0,604992.0,BA Business ,UK,web_traffic
+1,2020-01-01,,731655.8897830528,810635.3808727257,774692.174075266,BA Business ,UK,web_traffic
+2,2021-01-01,,569540.8063636734,811944.4629440623,701222.7380242044,BA Business ,UK,web_traffic
+3,2022-01-01,,543693.9276081709,982552.0299172438,766778.0898509541,BA Business ,UK,web_traffic
+0,2017-01-01,45963.0,,,,BA Business ,International,web_traffic
+1,2018-01-01,53389.0,,,,BA Business ,International,web_traffic
+2,2019-01-01,50907.0,,,,BA Business ,International,web_traffic
+0,2019-01-01,,50907.0,50907.0,50907.0,BA Business ,International,web_traffic
+1,2020-01-01,,46676.747203767416,55532.43344174498,51050.834337290544,BA Business ,International,web_traffic
+2,2021-01-01,,51876.722062598084,60183.334694135825,56006.634456759275,BA Business ,International,web_traffic
+3,2022-01-01,,52933.80544653641,61774.16848100433,57199.64159072192,BA Business ,International,web_traffic
+0,2017-01-01,22456.0,,,,BA Business ,UK,enquiries
+1,2018-01-01,17234.0,,,,BA Business ,UK,enquiries
+2,2019-01-01,25473.0,,,,BA Business ,UK,enquiries
+0,2019-01-01,,25473.0,25473.0,25473.0,BA Business ,UK,enquiries
+1,2020-01-01,,19321.459970283715,31897.986951619605,25740.039012715704,BA Business ,UK,enquiries
+2,2021-01-01,,20192.258221010954,32407.19367497597,26401.708003682525,BA Business ,UK,enquiries
+3,2022-01-01,,21608.72974457955,34058.296922195485,28050.82908366464,BA Business ,UK,enquiries
+0,2017-01-01,1508.0,,,,BA Business ,International,enquiries
+1,2018-01-01,2609.0,,,,BA Business ,International,enquiries
+2,2019-01-01,2221.0,,,,BA Business ,International,enquiries
+0,2019-01-01,,2221.0,2221.0,2221.0,BA Business ,International,enquiries
+1,2020-01-01,,2245.79485511219,3489.9218778597833,2874.084033007034,BA Business ,International,enquiries
+2,2021-01-01,,2487.647359436986,3845.1772676342644,3153.4676327257575,BA Business ,International,enquiries
+3,2022-01-01,,2792.464269127099,4188.906459248158,3486.512270431953,BA Business ,International,enquiries
+0,2017-01-01,2123.0,,,,BA Business ,UK,applications
+1,2018-01-01,1858.0,,,,BA Business ,UK,applications
+2,2019-01-01,2489.0,,,,BA Business ,UK,applications
+0,2019-01-01,,2489.0,2489.0,2489.0,BA Business ,UK,applications
+1,2020-01-01,,2299.753387299361,3052.9781203950224,2667.8412532766943,BA Business ,UK,applications
+2,2021-01-01,,2341.443535234965,3145.0462682060115,2732.4023504733736,BA Business ,UK,applications
+3,2022-01-01,,2548.0758243561286,3339.857636874176,2937.868225424508,BA Business ,UK,applications
+0,2017-01-01,409.0,,,,BA Business ,International,applications
+1,2018-01-01,231.0,,,,BA Business ,International,applications
+2,2019-01-01,300.0,,,,BA Business ,International,applications
+0,2019-01-01,,300.0,300.0,300.0,BA Business ,International,applications
+1,2020-01-01,,71.88533260681581,298.4043701933113,187.29449166977417,BA Business ,International,applications
+2,2021-01-01,,40.541861500184304,263.85625340975827,152.3117049120401,BA Business ,International,applications
+3,2022-01-01,,-9.234616555713663,214.15557873772224,99.78746349140667,BA Business ,International,applications
+0,2017-01-01,1135.0,,,,BA Business ,UK,enrolments
+1,2018-01-01,903.0,,,,BA Business ,UK,enrolments
+2,2019-01-01,1234.0,,,,BA Business ,UK,enrolments
+0,2019-01-01,,1234.0,1234.0,1234.0,BA Business ,UK,enrolments
+1,2020-01-01,,991.2577926012805,1486.4698906637495,1233.5864703412278,BA Business ,UK,enrolments
+2,2021-01-01,,1000.1550800433101,1497.5446914076633,1248.5785803524668,BA Business ,UK,enrolments
+3,2022-01-01,,1046.9875373155216,1537.0352942199029,1306.3037451010694,BA Business ,UK,enrolments
+0,2017-01-01,135.0,,,,BA Business ,International,enrolments
+1,2018-01-01,95.0,,,,BA Business ,International,enrolments
+2,2019-01-01,189.0,,,,BA Business ,International,enrolments
+0,2019-01-01,,189.0,189.0,189.0,BA Business ,International,enrolments
+1,2020-01-01,,146.59173047495648,270.21088606762544,206.69288251094713,BA Business ,International,enrolments
+2,2021-01-01,,161.19049752655283,277.01506570602584,221.47401929114992,BA Business ,International,enrolments
+3,2022-01-01,,189.29309172881682,308.8330246059666,249.21133320417292,BA Business ,International,enrolments
+0,2017-01-01,457845.0,,,,BA International Business,UK,web_traffic
+1,2018-01-01,412785.0,,,,BA International Business,UK,web_traffic
+2,2019-01-01,411287.0,,,,BA International Business,UK,web_traffic
+0,2019-01-01,,411287.0,411287.0,411287.0,BA International Business,UK,web_traffic
+1,2020-01-01,,441981.33105493133,500554.8482346436,469631.3735245285,BA International Business,UK,web_traffic
+2,2021-01-01,,332513.1316374207,503275.71969986206,412577.9487339596,BA International Business,UK,web_traffic
+3,2022-01-01,,269818.19915168645,589738.0552458332,426048.2368827419,BA International Business,UK,web_traffic
+0,2017-01-01,30043.0,,,,BA International Business,International,web_traffic
+1,2018-01-01,27080.0,,,,BA International Business,International,web_traffic
+2,2019-01-01,33345.0,,,,BA International Business,International,web_traffic
+0,2019-01-01,,33345.0,33345.0,33345.0,BA International Business,International,web_traffic
+1,2020-01-01,,31300.051548784853,39663.73605735697,35472.7282494105,BA International Business,International,web_traffic
+2,2021-01-01,,31367.65128290916,40049.80748974036,35591.12412241542,BA International Business,International,web_traffic
+3,2022-01-01,,33672.812442850176,42132.96789710358,37657.1934616454,BA International Business,International,web_traffic
+0,2017-01-01,7458.0,,,,BA International Business,UK,enquiries
+1,2018-01-01,6233.0,,,,BA International Business,UK,enquiries
+2,2019-01-01,7456.0,,,,BA International Business,UK,enquiries
+0,2019-01-01,,7456.0,7456.0,7456.0,BA International Business,UK,enquiries
+1,2020-01-01,,6200.2049851952825,8366.83249847159,7274.4739388597245,BA International Business,UK,enquiries
+2,2021-01-01,,5965.022154027557,8314.189427523117,7133.306044916197,BA International Business,UK,enquiries
+3,2022-01-01,,6119.885889326051,8332.405531307684,7205.487357471031,BA International Business,UK,enquiries
+0,2017-01-01,2859.0,,,,BA International Business,International,enquiries
+1,2018-01-01,2231.0,,,,BA International Business,International,enquiries
+2,2019-01-01,2552.0,,,,BA International Business,International,enquiries
+0,2019-01-01,,2552.0,2552.0,2552.0,BA International Business,International,enquiries
+1,2020-01-01,,1841.09409454086,2711.1341592065587,2266.4113754258888,BA International Business,International,enquiries
+2,2021-01-01,,1681.8888097937702,2571.6016945859483,2120.550950395078,BA International Business,International,enquiries
+3,2022-01-01,,1538.655917172011,2415.7621498399635,1995.2161300197822,BA International Business,International,enquiries
+0,2017-01-01,989.0,,,,BA International Business,UK,applications
+1,2018-01-01,903.0,,,,BA International Business,UK,applications
+2,2019-01-01,899.0,,,,BA International Business,UK,applications
+0,2019-01-01,,899.0,899.0,899.0,BA International Business,UK,applications
+1,2020-01-01,,1007.3204076998992,1067.766048672672,1036.576500020835,BA International Business,UK,applications
+2,2021-01-01,,841.561024382836,905.2133370256436,873.4974214389403,BA International Business,UK,applications
+3,2022-01-01,,856.5222235932893,923.9150737719639,890.075540371851,BA International Business,UK,applications
+0,2017-01-01,366.0,,,,BA International Business,International,applications
+1,2018-01-01,309.0,,,,BA International Business,International,applications
+2,2019-01-01,379.0,,,,BA International Business,International,applications
+0,2019-01-01,,379.0,379.0,379.0,BA International Business,International,applications
+1,2020-01-01,,323.9384624371459,436.8969468874744,378.3546804923818,BA International Business,International,applications
+2,2021-01-01,,316.80082358846306,435.38882452580117,375.16819608089236,BA International Business,International,applications
+3,2022-01-01,,334.91908763551305,445.8948081518305,385.31803258742895,BA International Business,International,applications
+0,2017-01-01,412.0,,,,BA International Business,UK,enrolments
+1,2018-01-01,401.0,,,,BA International Business,UK,enrolments
+2,2019-01-01,398.0,,,,BA International Business,UK,enrolments
+0,2019-01-01,,398.0,398.0,398.0,BA International Business,UK,enrolments
+1,2020-01-01,,442.86356396104503,452.06527305495035,448.0094115301525,BA International Business,UK,enrolments
+2,2021-01-01,,393.3929375986509,418.7549434302673,406.61501263682993,BA International Business,UK,enrolments
+3,2022-01-01,,392.49258599394545,439.5430864711297,418.11237982609157,BA International Business,UK,enrolments
+0,2017-01-01,210.0,,,,BA International Business,International,enrolments
+1,2018-01-01,217.0,,,,BA International Business,International,enrolments
+2,2019-01-01,225.0,,,,BA International Business,International,enrolments
+0,2019-01-01,,225.0,225.0,225.0,BA International Business,International,enrolments
+1,2020-01-01,,248.03311447756815,248.24355020074557,248.14698317614494,BA International Business,International,enrolments
+2,2021-01-01,,243.8744279319866,244.44768100517618,244.18782188644758,BA International Business,International,enrolments
+3,2022-01-01,,254.79223605118312,255.89584668586278,255.37948321820144,BA International Business,International,enrolments
+0,2017-01-01,245689.0,,,,BSc Maths & Stats,UK,web_traffic
+1,2018-01-01,217332.0,,,,BSc Maths & Stats,UK,web_traffic
+2,2019-01-01,190252.0,,,,BSc Maths & Stats,UK,web_traffic
+0,2019-01-01,,190252.0,190252.0,190252.0,BSc Maths & Stats,UK,web_traffic
+1,2020-01-01,,166088.15157602768,166590.83139796642,166348.9244160257,BSc Maths & Stats,UK,web_traffic
+2,2021-01-01,,139986.61353211038,141534.9183668899,140768.76899932677,BSc Maths & Stats,UK,web_traffic
+3,2022-01-01,,116893.1080763284,119754.78853937535,118350.32397493669,BSc Maths & Stats,UK,web_traffic
+0,2017-01-01,21641.0,,,,BSc Maths & Stats,International,web_traffic
+1,2018-01-01,17777.0,,,,BSc Maths & Stats,International,web_traffic
+2,2019-01-01,12862.0,,,,BSc Maths & Stats,International,web_traffic
+0,2019-01-01,,12862.0,12862.0,12862.0,BSc Maths & Stats,International,web_traffic
+1,2020-01-01,,-1301.0180787069562,-95.97137055919995,-731.7262616955268,BSc Maths & Stats,International,web_traffic
+2,2021-01-01,,-493.640487478304,3314.504116850606,1467.8317072964346,BSc Maths & Stats,International,web_traffic
+3,2022-01-01,,-8739.180069665274,-1730.7237093256472,-5005.449751737906,BSc Maths & Stats,International,web_traffic
+0,2017-01-01,4937.0,,,,BSc Maths & Stats,UK,enquiries
+1,2018-01-01,4590.0,,,,BSc Maths & Stats,UK,enquiries
+2,2019-01-01,3808.0,,,,BSc Maths & Stats,UK,enquiries
+0,2019-01-01,,3808.0,3808.0,3808.0,BSc Maths & Stats,UK,enquiries
+1,2020-01-01,,1809.258273353978,2137.7711843705024,1981.8833664637887,BSc Maths & Stats,UK,enquiries
+2,2021-01-01,,2230.946981332059,2549.4054325406983,2393.8571937757843,BSc Maths & Stats,UK,enquiries
+3,2022-01-01,,1373.6980958147003,1691.7423553726464,1535.482475686309,BSc Maths & Stats,UK,enquiries
+0,2017-01-01,951.0,,,,BSc Maths & Stats,International,enquiries
+1,2018-01-01,641.0,,,,BSc Maths & Stats,International,enquiries
+2,2019-01-01,465.0,,,,BSc Maths & Stats,International,enquiries
+0,2019-01-01,,465.0,465.0,465.0,BSc Maths & Stats,International,enquiries
+1,2020-01-01,,129.23662760803467,253.37763329998586,191.38856124256048,BSc Maths & Stats,International,enquiries
+2,2021-01-01,,-70.15587056882622,49.93985529041661,-12.366468765109175,BSc Maths & Stats,International,enquiries
+3,2022-01-01,,-286.59599560935277,-168.46809874790515,-229.40862244392702,BSc Maths & Stats,International,enquiries
+0,2017-01-01,501.0,,,,BSc Maths & Stats,UK,applications
+1,2018-01-01,421.0,,,,BSc Maths & Stats,UK,applications
+2,2019-01-01,351.0,,,,BSc Maths & Stats,UK,applications
+0,2019-01-01,,351.0,351.0,351.0,BSc Maths & Stats,UK,applications
+1,2020-01-01,,311.8345605272589,321.28180469167785,317.3136904694503,BSc Maths & Stats,UK,applications
+2,2021-01-01,,212.7841180387479,241.98532115843443,229.37300156955007,BSc Maths & Stats,UK,applications
+3,2022-01-01,,149.21011780286136,201.83086143771044,177.69704220185497,BSc Maths & Stats,UK,applications
+0,2017-01-01,83.0,,,,BSc Maths & Stats,International,applications
+1,2018-01-01,81.0,,,,BSc Maths & Stats,International,applications
+2,2019-01-01,50.0,,,,BSc Maths & Stats,International,applications
+0,2019-01-01,,50.0,50.0,50.0,BSc Maths & Stats,International,applications
+1,2020-01-01,,15.140165234655905,40.27811096362961,26.96864481453362,BSc Maths & Stats,International,applications
+2,2021-01-01,,7.837152590779318,33.159112288371205,20.484978360141852,BSc Maths & Stats,International,applications
+3,2022-01-01,,-10.596190152640842,15.513717143244326,2.8487696705037706,BSc Maths & Stats,International,applications
+0,2017-01-01,250.0,,,,BSc Maths & Stats,UK,enrolments
+1,2018-01-01,222.0,,,,BSc Maths & Stats,UK,enrolments
+2,2019-01-01,162.0,,,,BSc Maths & Stats,UK,enrolments
+0,2019-01-01,,162.0,162.0,162.0,BSc Maths & Stats,UK,enrolments
+1,2020-01-01,,57.602938052379514,86.09706724955664,71.86184741881812,BSc Maths & Stats,UK,enrolments
+2,2021-01-01,,55.25170302855616,82.23810366713208,68.95627194065355,BSc Maths & Stats,UK,enrolments
+3,2022-01-01,,3.065113290158854,30.529726987095568,16.224968244736658,BSc Maths & Stats,UK,enrolments
+0,2017-01-01,43.0,,,,BSc Maths & Stats,International,enrolments
+1,2018-01-01,21.0,,,,BSc Maths & Stats,International,enrolments
+2,2019-01-01,22.0,,,,BSc Maths & Stats,International,enrolments
+0,2019-01-01,,22.0,22.0,22.0,BSc Maths & Stats,International,enrolments
+1,2020-01-01,,-5.750936242553986,13.922862269906489,4.050581918389106,BSc Maths & Stats,International,enrolments
+2,2021-01-01,,-13.370185514893889,8.345786099148265,-2.57127399036305,BSc Maths & Stats,International,enrolments
+3,2022-01-01,,-23.02884853539475,-3.2494576614563573,-12.836460757067599,BSc Maths & Stats,International,enrolments
+0,2017-01-01,0.0,,,,BSc Banking & Finance,UK,web_traffic
+1,2018-01-01,0.0,,,,BSc Banking & Finance,UK,web_traffic
+2,2019-01-01,96435.0,,,,BSc Banking & Finance,UK,web_traffic
+0,2019-01-01,,96435.0,96435.0,96435.0,BSc Banking & Finance,UK,web_traffic
+1,2020-01-01,,103350.00108754067,193732.25879923566,149224.7709682609,BSc Banking & Finance,UK,web_traffic
+2,2021-01-01,,133640.7117678431,219435.73094003933,176789.75502561976,BSc Banking & Finance,UK,web_traffic
+3,2022-01-01,,182442.66333746247,268692.37867960345,225229.84787920403,BSc Banking & Finance,UK,web_traffic
+0,2017-01-01,0.0,,,,BSc Banking & Finance,International,web_traffic
+1,2018-01-01,0.0,,,,BSc Banking & Finance,International,web_traffic
+2,2019-01-01,10511.0,,,,BSc Banking & Finance,International,web_traffic
+0,2019-01-01,,10511.0,10511.0,10511.0,BSc Banking & Finance,International,web_traffic
+1,2020-01-01,,11426.159980435756,21032.30481260457,16264.857859152698,BSc Banking & Finance,International,web_traffic
+2,2021-01-01,,14836.818487295932,23931.046549819755,19269.32249778907,BSc Banking & Finance,International,web_traffic
+3,2022-01-01,,20114.809381734456,29007.302580009415,24549.084160919934,BSc Banking & Finance,International,web_traffic
+0,2017-01-01,0.0,,,,BSc Banking & Finance,UK,enquiries
+1,2018-01-01,0.0,,,,BSc Banking & Finance,UK,enquiries
+2,2019-01-01,5001.0,,,,BSc Banking & Finance,UK,enquiries
+0,2019-01-01,,5001.0,5001.0,5001.0,BSc Banking & Finance,UK,enquiries
+1,2020-01-01,,5501.392514799895,9983.064457006503,7738.6123255277935,BSc Banking & Finance,UK,enquiries
+2,2021-01-01,,6931.535424700681,11486.240858704035,9168.098355193906,BSc Banking & Finance,UK,enquiries
+3,2022-01-01,,9372.571088773871,13888.478212911254,11680.141745672208,BSc Banking & Finance,UK,enquiries
+0,2017-01-01,0.0,,,,BSc Banking & Finance,International,enquiries
+1,2018-01-01,0.0,,,,BSc Banking & Finance,International,enquiries
+2,2019-01-01,831.0,,,,BSc Banking & Finance,International,enquiries
+0,2019-01-01,,831.0,831.0,831.0,BSc Banking & Finance,International,enquiries
+1,2020-01-01,,922.6075833057654,1666.943869972344,1285.9001884650265,BSc Banking & Finance,International,enquiries
+2,2021-01-01,,1172.9223395746626,1865.9492704052582,1523.433259981231,BSc Banking & Finance,International,enquiries
+3,2022-01-01,,1585.455327706341,2330.9410600655656,1940.8513878531503,BSc Banking & Finance,International,enquiries
+0,2017-01-01,0.0,,,,BSc Banking & Finance,UK,applications
+1,2018-01-01,0.0,,,,BSc Banking & Finance,UK,applications
+2,2019-01-01,301.0,,,,BSc Banking & Finance,UK,applications
+0,2019-01-01,,301.0,301.0,301.0,BSc Banking & Finance,UK,applications
+1,2020-01-01,,322.3688885823449,604.3171821427982,465.7713077352262,BSc Banking & Finance,UK,applications
+2,2021-01-01,,415.54953045749215,686.0431353395268,551.809159150843,BSc Banking & Finance,UK,applications
+3,2022-01-01,,560.9192591213297,841.8549428648877,703.0039323030063,BSc Banking & Finance,UK,applications
+0,2017-01-01,0.0,,,,BSc Banking & Finance,International,applications
+1,2018-01-01,0.0,,,,BSc Banking & Finance,International,applications
+2,2019-01-01,87.0,,,,BSc Banking & Finance,International,applications
+0,2019-01-01,,87.0,87.0,87.0,BSc Banking & Finance,International,applications
+1,2020-01-01,,95.40795508408362,175.3921697487869,134.62492947828795,BSc Banking & Finance,International,applications
+2,2021-01-01,,118.69772257145523,196.929745044467,159.49301277781842,BSc Banking & Finance,International,applications
+3,2022-01-01,,165.83514271472546,240.77382790732378,203.19382760917458,BSc Banking & Finance,International,applications
+0,2017-01-01,0.0,,,,BSc Banking & Finance,UK,enrolments
+1,2018-01-01,0.0,,,,BSc Banking & Finance,UK,enrolments
+2,2019-01-01,256.0,,,,BSc Banking & Finance,UK,enrolments
+0,2019-01-01,,256.0,256.0,256.0,BSc Banking & Finance,UK,enrolments
+1,2020-01-01,,281.2152844103041,499.71613453842,396.1377235223186,BSc Banking & Finance,UK,enrolments
+2,2021-01-01,,354.00750011433576,583.0472826177481,469.31277323128177,BSc Banking & Finance,UK,enrolments
+3,2022-01-01,,482.9546824059959,713.8760867464706,597.9036766430884,BSc Banking & Finance,UK,enrolments
+0,2017-01-01,0.0,,,,BSc Banking & Finance,International,enrolments
+1,2018-01-01,0.0,,,,BSc Banking & Finance,International,enrolments
+2,2019-01-01,28.0,,,,BSc Banking & Finance,International,enrolments
+0,2019-01-01,,28.0,28.0,28.0,BSc Banking & Finance,International,enrolments
+1,2020-01-01,,30.21772762588074,55.56888961950636,43.3275635102536,BSc Banking & Finance,International,enrolments
+2,2021-01-01,,39.64388278692719,64.16759487982772,51.33108457217144,BSc Banking & Finance,International,enrolments
+3,2022-01-01,,52.51932402719163,77.5241222214584,65.3957146328378,BSc Banking & Finance,International,enrolments
+0,2017-01-01,40456.0,,,,MSc Economics,UK,web_traffic
+1,2018-01-01,32561.0,,,,MSc Economics,UK,web_traffic
+2,2019-01-01,32677.0,,,,MSc Economics,UK,web_traffic
+0,2019-01-01,,32677.0,32677.0,32677.0,MSc Economics,UK,web_traffic
+1,2020-01-01,,24916.839882008062,32126.92217883893,28347.13816419267,MSc Economics,UK,web_traffic
+2,2021-01-01,,21089.054869272895,27995.79425702428,24436.074279389257,MSc Economics,UK,web_traffic
+3,2022-01-01,,17835.68894767568,24779.025363646935,21279.501635255776,MSc Economics,UK,web_traffic
+0,2017-01-01,6544.0,,,,MSc Economics,International,web_traffic
+1,2018-01-01,6346.0,,,,MSc Economics,International,web_traffic
+2,2019-01-01,6365.0,,,,MSc Economics,International,web_traffic
+0,2019-01-01,,6365.0,6365.0,6365.0,MSc Economics,International,web_traffic
+1,2020-01-01,,7408.730792248791,7727.020869962873,7562.101877564729,MSc Economics,International,web_traffic
+2,2021-01-01,,6307.412461793489,7095.731367226433,6721.361874053315,MSc Economics,International,web_traffic
+3,2022-01-01,,6347.696757570367,7729.420766349743,7058.61672043998,MSc Economics,International,web_traffic
+0,2017-01-01,1002.0,,,,MSc Economics,UK,enquiries
+1,2018-01-01,811.0,,,,MSc Economics,UK,enquiries
+2,2019-01-01,851.0,,,,MSc Economics,UK,enquiries
+0,2019-01-01,,851.0,851.0,851.0,MSc Economics,UK,enquiries
+1,2020-01-01,,657.5508016167659,859.4458216534407,756.481717503607,MSc Economics,UK,enquiries
+2,2021-01-01,,571.6925801361059,782.7846462841744,679.5523145661341,MSc Economics,UK,enquiries
+3,2022-01-01,,522.0132057293324,716.1245404810982,619.181546137133,MSc Economics,UK,enquiries
+0,2017-01-01,420.0,,,,MSc Economics,International,enquiries
+1,2018-01-01,426.0,,,,MSc Economics,International,enquiries
+2,2019-01-01,479.0,,,,MSc Economics,International,enquiries
+0,2019-01-01,,479.0,479.0,479.0,MSc Economics,International,enquiries
+1,2020-01-01,,594.39742742223,626.9265849089295,610.4174745489895,MSc Economics,International,enquiries
+2,2021-01-01,,547.1501045122073,579.2343169102897,562.5824292540107,MSc Economics,International,enquiries
+3,2022-01-01,,601.7503216662086,636.8698219801951,619.3526422439974,MSc Economics,International,enquiries
+0,2017-01-01,487.0,,,,MSc Economics,UK,applications
+1,2018-01-01,451.0,,,,MSc Economics,UK,applications
+2,2019-01-01,458.0,,,,MSc Economics,UK,applications
+0,2019-01-01,,458.0,458.0,458.0,MSc Economics,UK,applications
+1,2020-01-01,,503.6823103192224,536.6770394905853,519.8933806424046,MSc Economics,UK,applications
+2,2021-01-01,,436.44676158495173,468.31167415727924,452.34691163434104,MSc Economics,UK,applications
+3,2022-01-01,,446.9158734605462,479.6858963995155,463.1363669958977,MSc Economics,UK,applications
+0,2017-01-01,36.0,,,,MSc Economics,International,applications
+1,2018-01-01,39.0,,,,MSc Economics,International,applications
+2,2019-01-01,41.0,,,,MSc Economics,International,applications
+0,2019-01-01,,41.0,41.0,41.0,MSc Economics,International,applications
+1,2020-01-01,,35.93868718218811,37.037974950285495,36.489587421804224,MSc Economics,International,applications
+2,2021-01-01,,41.60816045747957,44.76254251174239,43.15091789691303,MSc Economics,International,applications
+3,2022-01-01,,40.486962641492084,46.265924369088516,43.31321930510144,MSc Economics,International,applications
+0,2017-01-01,243.0,,,,MSc Economics,UK,enrolments
+1,2018-01-01,202.0,,,,MSc Economics,UK,enrolments
+2,2019-01-01,201.0,,,,MSc Economics,UK,enrolments
+0,2019-01-01,,201.0,201.0,201.0,MSc Economics,UK,enrolments
+1,2020-01-01,,165.4912713346604,202.54682695293266,183.2345491981778,MSc Economics,UK,enrolments
+2,2021-01-01,,140.70469372337345,176.20208114052997,158.76756735237532,MSc Economics,UK,enrolments
+3,2022-01-01,,125.4892276053618,160.80144959217282,143.16992940734482,MSc Economics,UK,enrolments
+0,2017-01-01,22.0,,,,MSc Economics,International,enrolments
+1,2018-01-01,33.0,,,,MSc Economics,International,enrolments
+2,2019-01-01,47.0,,,,MSc Economics,International,enrolments
+0,2019-01-01,,47.0,47.0,47.0,MSc Economics,International,enrolments
+1,2020-01-01,,71.7244604782312,77.67853377794192,74.7332440964141,MSc Economics,International,enrolments
+2,2021-01-01,,68.29075275676394,85.1476477138799,77.31859383153721,MSc Economics,International,enrolments
+3,2022-01-01,,78.5961912000172,107.87206649328799,93.61782593473463,MSc Economics,International,enrolments
+0,2017-01-01,126099.0,,,,MBA,UK,web_traffic
+1,2018-01-01,107382.0,,,,MBA,UK,web_traffic
+2,2019-01-01,121874.0,,,,MBA,UK,web_traffic
+0,2019-01-01,,121874.0,121874.0,121874.0,MBA,UK,web_traffic
+1,2020-01-01,,102289.82092001353,133657.06637638246,118614.7938618767,MBA,UK,web_traffic
+2,2021-01-01,,100139.69150386473,129928.95926677911,114051.45571523899,MBA,UK,web_traffic
+3,2022-01-01,,99175.34405398736,129063.40781114205,113554.01487043881,MBA,UK,web_traffic
+0,2017-01-01,50287.0,,,,MBA,International,web_traffic
+1,2018-01-01,44624.0,,,,MBA,International,web_traffic
+2,2019-01-01,47823.0,,,,MBA,International,web_traffic
+0,2019-01-01,,47823.0,47823.0,47823.0,MBA,International,web_traffic
+1,2020-01-01,,43961.01053091526,51985.11405370112,48079.385743626146,MBA,International,web_traffic
+2,2021-01-01,,41126.05165400603,49353.40196296213,45095.08372042992,MBA,International,web_traffic
+3,2022-01-01,,41071.30017527484,48708.39917099642,44885.5107306333,MBA,International,web_traffic
+0,2017-01-01,5345.0,,,,MBA,UK,enquiries
+1,2018-01-01,4762.0,,,,MBA,UK,enquiries
+2,2019-01-01,5345.0,,,,MBA,UK,enquiries
+0,2019-01-01,,5345.0,5345.0,5345.0,MBA,UK,enquiries
+1,2020-01-01,,4916.675459440852,5962.994528245019,5436.484040542214,MBA,UK,enquiries
+2,2021-01-01,,4704.155495583277,5760.403295811468,5253.103607303059,MBA,UK,enquiries
+3,2022-01-01,,4823.2673752244145,5849.784164964178,5338.960677078329,MBA,UK,enquiries
+0,2017-01-01,735.0,,,,MBA,International,enquiries
+1,2018-01-01,626.0,,,,MBA,International,enquiries
+2,2019-01-01,656.0,,,,MBA,International,enquiries
+0,2019-01-01,,656.0,656.0,656.0,MBA,International,enquiries
+1,2020-01-01,,561.9403558685552,687.3083477002838,624.7009741783434,MBA,International,enquiries
+2,2021-01-01,,508.42188794241554,632.5116015430166,570.514697452702,MBA,International,enquiries
+3,2022-01-01,,486.0681704306287,603.9320584439583,545.0281706666606,MBA,International,enquiries
+0,2017-01-01,945.0,,,,MBA,UK,applications
+1,2018-01-01,777.0,,,,MBA,UK,applications
+2,2019-01-01,1051.0,,,,MBA,UK,applications
+0,2019-01-01,,1051.0,1051.0,1051.0,MBA,UK,applications
+1,2020-01-01,,884.2558815961463,1274.014404637627,1072.8065463691623,MBA,UK,applications
+2,2021-01-01,,869.7090032712058,1294.5288032856456,1091.1925546371292,MBA,UK,applications
+3,2022-01-01,,955.830864173804,1342.428884178737,1151.3711364512756,MBA,UK,applications
+0,2017-01-01,264.0,,,,MBA,International,applications
+1,2018-01-01,225.0,,,,MBA,International,applications
+2,2019-01-01,261.0,,,,MBA,International,applications
+0,2019-01-01,,261.0,261.0,261.0,MBA,International,applications
+1,2020-01-01,,227.30869332353052,290.32939776369074,256.28057530000297,MBA,International,applications
+2,2021-01-01,,216.0682063186952,283.64633793086807,249.17592259299903,MBA,International,applications
+3,2022-01-01,,215.09709180407802,285.9877567237021,250.76648912595903,MBA,International,applications
+0,2017-01-01,537.0,,,,MBA,UK,enrolments
+1,2018-01-01,432.0,,,,MBA,UK,enrolments
+2,2019-01-01,499.0,,,,MBA,UK,enrolments
+0,2019-01-01,,499.0,499.0,499.0,MBA,UK,enrolments
+1,2020-01-01,,379.10711240854596,541.5863291317331,460.71129512163265,MBA,UK,enrolments
+2,2021-01-01,,361.89809003336813,513.8138032717121,438.84425718601904,MBA,UK,enrolments
+3,2022-01-01,,346.61672993453266,502.8713168475538,425.2939724172422,MBA,UK,enrolments
+0,2017-01-01,109.0,,,,MBA,International,enrolments
+1,2018-01-01,80.0,,,,MBA,International,enrolments
+2,2019-01-01,138.0,,,,MBA,International,enrolments
+0,2019-01-01,,138.0,138.0,138.0,MBA,International,enrolments
+1,2020-01-01,,106.77295505482815,184.8020952616894,145.61023777392052,MBA,International,enrolments
+2,2021-01-01,,111.00777733361656,195.87235488235606,153.20588338365854,MBA,International,enrolments
+3,2022-01-01,,132.75116347587922,211.47387885041425,168.3265985797039,MBA,International,enrolments
