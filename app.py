@@ -7,7 +7,6 @@ from plotly.subplots import make_subplots
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_bootstrap_components as dbc
 from dash.dependencies import Output, Input
 pd.set_option("display.max_columns", 50)
 pd.set_option("display.max_rows", 400000)

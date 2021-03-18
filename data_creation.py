@@ -3,10 +3,6 @@ pd.set_option("display.max_columns", 50)
 pd.set_option("display.max_rows", 400000)
 pd.set_option("display.width", 1000)
 
-import seaborn as sns
-sns.set_style("darkgrid")
-sns.set_palette('muted')
-
 # Import Data
 course_data = pd.read_excel('assets/manually_cleaned.xlsx')
 course_data.columns = [x.lower().replace(" ", '_') for x in course_data.columns]
